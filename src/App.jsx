@@ -1,5 +1,6 @@
 import { useRef, useState } from "react";
 import { AiOutlineFileSearch } from "react-icons/ai";
+import { AiFillLinkedin } from "react-icons/ai";
 import "./styles.css"
 
 import api from "./services/api"
@@ -42,7 +43,7 @@ function App() {
        </main>
        )
         }
-       
+       <footer> criado por Danilo Vieira <a href="https://www.linkedin.com/in/danilo-vieira-10515123a/"> < AiFillLinkedin size={20}   /> </a></footer>
     </div>
   )
 }

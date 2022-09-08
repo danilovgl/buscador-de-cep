@@ -4,10 +4,12 @@
 
 
 
-<img src="./user-register-1.png" widht="150px" alt="print-project">
-<img src="user-register-2.png" widht="150px" alt="print-project">
+<img src="./buscador-cep-1.png" widht="150px" alt="print-project">
+<img src="buscador-cep-2.png" widht="150px" alt="print-project">
 
 >Resultado do Register User.
+
+>clique aqui => https://superb-axolotl-2411e2.netlify.app/
 
 O projeto Foi desenvolvido usando as seguintes tecnologias:
 
