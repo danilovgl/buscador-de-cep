@@ -9,7 +9,7 @@
 
 >Resultado do Register User.
 
->clique aqui => https://superb-axolotl-2411e2.netlify.app/
+>clique aqui => https://cepbusqueja.netlify.app/
 
 O projeto Foi desenvolvido usando as seguintes tecnologias:
 
